@@ -39,7 +39,7 @@
 
 ### 👨‍💻Office:
 <div style="display:flex">
-  <img src="https://img.shields.io/badge/To Do-0052CC?style=for-the-badge&logo=todo&logoColor=white">
+  <img src="https://img.shields.io/badge/To Do-0052CC?style=for-the-badge&logo=to do&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
