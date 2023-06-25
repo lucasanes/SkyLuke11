@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45b8ed&height=180&section=header&text=Hi 👋, I'm Gabriel William Serrano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45b8ed&height=180&section=header&text=Hi 👋, I'm Lucas Abrahão Anes&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 - 👨‍🎓 Graduated in Systems Analysis and Development
 - 🔎 I am interested in improving my skills by working in a group and contributing to the programming community.
