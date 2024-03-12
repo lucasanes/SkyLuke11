@@ -4,7 +4,6 @@
 
 - 👨‍🎓 I'm in Computer Science.
 - 🔎 I am interested in improving my skills by working in a group and contributing to the programming community.
-<br>
 - 📚 Focused on learning technologies and frameworks: <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
 ## Experience with
@@ -50,7 +49,6 @@
 
 ##
 <div align="center">
-  <a href="https://github.com/skyluke11">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=skyluke11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyluke11&layout=compact&langs_count=7&theme=dracula"/>
 </div>
