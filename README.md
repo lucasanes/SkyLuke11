@@ -46,16 +46,18 @@
   <img src="https://img.shields.io/badge/terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 </div>
 
+### ☁IDE'S:
+<div style="display:flex">
+  <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=white">
+</div>
+
 ### ☁Cloud:
 <div style="display:flex">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/Railway-00C7B7?style=for-the-badge&logo=railway&logoColor=white">
-</div>
-
-### 👨‍💻Office:
-<div style="display:flex">
-  <img src="https://img.shields.io/badge/To Do-0052CC?style=for-the-badge&logo=to-do&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
 ##
