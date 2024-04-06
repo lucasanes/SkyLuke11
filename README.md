@@ -11,8 +11,10 @@
   <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-339933?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-B73BFE?style=for-the-badge&logo=prisma&logoColor=FFD62E">
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Styled Components-38B2AC?style=for-the-badge&logo=styled-components&logoColor=white">
@@ -29,6 +31,7 @@
   <img src="https://img.shields.io/badge/C Sharp-007ACC?style=for-the-badge&logo=Csharp&logoColor=white">
   <img src="https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-1572B6?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 </div>
