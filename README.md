@@ -5,7 +5,7 @@
 
 ## Experience with
 
-### 🚀Frameworks & Library:
+### 🚀 Frameworks & Library:
 <div style="display:flex">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB">
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/NPM-2C8EBB?style=for-the-badge&logo=npm&logoColor=white">
 </div>
 
-### 👨‍💻Languages:
+### 👨‍💻 Languages:
 <div style="display:flex">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -43,21 +43,21 @@
   <img src="https://img.shields.io/badge/MySQL-E34F26?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-### 💻Terminal & Version control:
+### 💻 Terminal & Version control:
 <div style="display:flex">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/BitBucket-E44C30?style=for-the-badge&logo=bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 </div>
 
-### ☁IDE'S:
+### 🔧 IDE'S:
 <div style="display:flex">
   <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
 
-### ☁Cloud:
+### ☁ Cloud:
 <div style="display:flex">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white">
