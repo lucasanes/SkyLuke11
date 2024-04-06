@@ -9,6 +9,7 @@
 <div style="display:flex">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-339933?style=for-the-badge&logo=spring&logoColor=white">
